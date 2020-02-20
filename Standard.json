@@ -30,7 +30,7 @@
             "metadata": {
                 "description": "The time zone for daily auto-shutdown."
             },
-            "defaultValue": "Pacific Standard Time"
+            "defaultValue": "GMT"
         },
         "autoShutdownTime": {
             "type": "string",
@@ -44,7 +44,7 @@
             "metadata": {
                 "description": "Location of the setup script."
             },
-            "defaultValue": "https://raw.githubusercontent.com/chrisrun/azure-gaming/master"
+            "defaultValue": "https://raw.githubusercontent.com/James76931/azure-gaming/master"
         },
         "windowsUpdate": {
             "type": "bool",
