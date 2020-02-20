@@ -179,7 +179,7 @@
                     }
                 },
                 "hardwareProfile": {
-                    "vmSize": "NV6_Promo"
+                    "vmSize": "NC6_Promo"
                 },
                 "storageProfile": {
                     "imageReference": {
